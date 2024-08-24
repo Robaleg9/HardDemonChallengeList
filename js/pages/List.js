@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Just ping Robaleg9 in the HDCL thread with like a photo or video or something
+                        Just ping Robaleg9 or any list editor in the HDCL thread with like a photo or video or something
                     </p>
                 </div>
             </div>
