@@ -9,6 +9,11 @@
     "password": "Free to Copy", 
     "records": [
         {
+            "user": "Azaelf",
+            "link": "",
+            "percent": 100
+        },
+        {
             "user": "Electro325",
             "link": "https://youtu.be/06vh0lMatPs?si=bNE9ISNo7l3MjbYu",
             "percent": 100
@@ -25,6 +30,11 @@
         },
         {
             "user": "Frogs65",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Robaleg9",
             "link": "",
             "percent": 100
         }
