@@ -1,0 +1,22 @@
+{
+    "id": 110055150,
+    "name": "turn my FLY on (cant let fly)",
+    "author": "Hidbid",
+    "creators": [],
+    "verifier": "Hidbid",
+    "verification": "https://youtu.be/hSxLfQQixQA?si=BUCIsI2dQ8FdiG3C",
+    "percentToQualify": 100,
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "helvetica",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Aph",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
