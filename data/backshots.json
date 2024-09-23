@@ -1,0 +1,27 @@
+{
+    "id": 109989697,
+    "name": "Backshots (Backlines)",
+    "author": "helvetica",
+    "creators": [],
+    "verifier": "helvetica",
+    "verification": "https://youtu.be/YU48rTNDlzQ?si=9IclUofvMgscnBmX",
+    "percentToQualify": 100,
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Electro325",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/YU48rTNDlzQ?si=9IclUofvMgscnBmX",
+            "percent": 100
+        },
+        {
+            "user": "Electroanimator",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
