@@ -1,0 +1,32 @@
+{
+    "id": 111761419,
+    "name": "Ultra Poop (Ultra Circles)",
+    "author": "Frontshotsgd",
+    "creators": [],
+    "verifier": "Frontshotsgd",
+    "verification": "https://www.youtube.com/watch?v=_bulLdS0goE",
+    "percentToQualify": 100,
+    "password": "Free to Copy", 
+    "records": [
+        {
+            "user": "Zift",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Seafarer",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "helvetica",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
